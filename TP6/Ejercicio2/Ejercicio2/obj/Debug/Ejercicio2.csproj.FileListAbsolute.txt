@@ -1,0 +1,5 @@
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

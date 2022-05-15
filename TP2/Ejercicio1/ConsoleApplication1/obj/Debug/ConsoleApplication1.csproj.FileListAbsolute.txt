@@ -1,0 +1,15 @@
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP2\Ejercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP2\Ejercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP2\Ejercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TP2\Ejercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TP2\Ejercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TP2\Ejercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TP2\Ejercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TP2\Ejercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TP2\Ejercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

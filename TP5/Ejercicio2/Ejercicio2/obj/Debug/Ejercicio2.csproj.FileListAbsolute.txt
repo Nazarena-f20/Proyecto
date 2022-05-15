@@ -1,0 +1,12 @@
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache

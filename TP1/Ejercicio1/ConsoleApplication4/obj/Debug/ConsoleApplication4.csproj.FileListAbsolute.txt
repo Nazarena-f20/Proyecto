@@ -1,0 +1,12 @@
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP1\Ejercicio1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP1\Ejercicio1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP1\Ejercicio1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP1\Ejercicio1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP1\Ejercicio1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\NazarenaFuenzalida-7mo Informática\Proyecto\TP1\Ejercicio1\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

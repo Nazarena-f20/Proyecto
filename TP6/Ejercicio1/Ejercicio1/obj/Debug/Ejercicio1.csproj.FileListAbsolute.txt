@@ -1,0 +1,14 @@
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+G:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+G:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+G:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+G:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+G:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+G:\NazarenaFuenzalida-7mo Informática\Proyecto\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

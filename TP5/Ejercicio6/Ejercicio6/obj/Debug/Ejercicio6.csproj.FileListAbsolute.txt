@@ -1,0 +1,10 @@
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP5\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP5\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb

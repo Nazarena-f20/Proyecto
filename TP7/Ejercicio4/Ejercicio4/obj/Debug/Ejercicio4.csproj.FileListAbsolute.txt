@@ -1,0 +1,9 @@
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP7\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP7\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP7\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\Fuenzalida2\OneDrive\Documentos\Naza\Escuela 2022\Profe Cano\Proyecto\TPs\TP7\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache

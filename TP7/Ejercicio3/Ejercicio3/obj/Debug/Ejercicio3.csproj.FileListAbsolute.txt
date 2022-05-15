@@ -1,0 +1,5 @@
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\NazarenaFuenzalida-7mo Informática\Proyecto\TP7\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
